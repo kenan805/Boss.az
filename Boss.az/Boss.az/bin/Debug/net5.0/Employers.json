@@ -1,0 +1,156 @@
+[
+  {
+    "CompanyName": "Web Studio \"AVANTGARDE",
+    "Vacancies": [
+      {
+        "WorkName": "Tərcüməçi",
+        "AgeMin": 20,
+        "AgeMax": 35,
+        "SalaryMax": 400,
+        "Requirements": "- İşlədiyi dillərin qrammatik qaydalarını mükəmməl səviyyədə bilmək\r\n            - Tərcüməçi kimi iş təcrübəsi: 3-5 il\r\n            - Müxtəlif mövzularda peşəkar səviyyədə, səhvsiz tərcümə etmək bacarığı\r\n            - Müvafiq sahədə ali təhsil\r\n            - Tərcüməçi kimi işləməmiş namizədlərin CV-nə baxılmayacaq\r\n            - Xahiş edirik tələblərə cavab verməyən namizədlər müraciət etməsin",
+        "JobDescription": "- Azərbaycan - Rus , Rus - Azərbaycan dilləri üzrə xəbər və məqalə tərcümələrinin yerinə yetirilməsi\r\n            - Tərcümə zamanı punktuasiya, qrammatika qaydalarına dəqiqliklə riayət etmək, müvafiq üslubu gözləmək, tam peşəkar səviyyədə iş təhvil vermək\r\n            - Ehtiyac olduqda tərcümə olunan materialın redaktəsi\r\n            - İş qrafiki: həftədə 6 gün 9.00-dan 18.00-dək\r\n            - Onlayn iş şərayətində\r\n            - Peşəkar inkişaf imkanı\r\n            - Əmək haqqı artandır, uğurlu namizədlə ayrıca danışılacaq\r\n            - 1 ay ödənişli sınaq müddəti",
+        "CategoryId": 7,
+        "SubCategoryId": 25,
+        "EducationDegree": "Higher",
+        "Experience": "From 3 to 5 years",
+        "Languages": [
+          "Azərbaycan",
+          "Rus"
+        ],
+        "ViewCount": 0,
+        "Salary": 300,
+        "WorkCity": "Bakı",
+        "Guid": "161012a2-dd45-473e-a980-740a268c1c2b"
+      }
+    ],
+    "IncomingCVs": null,
+    "Name": "Elvin",
+    "Surname": "Selimov",
+    "Username": "elvin123",
+    "Password": "kenan239932",
+    "Gender": true,
+    "Email": "idayatov256@gmail.com",
+    "Age": 35,
+    "Phones": [
+      "0126782299",
+      "0509878723"
+    ],
+    "Notifications": null,
+    "Guid": "9175b9bc-879d-4cc2-ae65-a16dd3d17385"
+  },
+  {
+    "CompanyName": "Bitboxlab MMC",
+    "Vacancies": [
+      {
+        "WorkName": "C#/Xamarin proqramçı",
+        "AgeMin": 18,
+        "AgeMax": 65,
+        "SalaryMax": 2800,
+        "Requirements": "- C# -da (ən azı) 3 illik sübut olunmuş təcrübəyə malik olmalı (tercihen Xamarin Formaları ilə). Java bilməsi elavə bir üstünlük\r\n            - Təmiz və oxunaqlı kod yazmağı bacağı\r\n            - Komanda ilə işləmə bacarığı\r\n            - Version Control (git) -lə sərbəst işləmə bacarığı",
+        "JobDescription": "İş barədə məlumat\r\n            Bitboxlab MMC Azerbaycanda yeni qurulmuş bir şirkətdir, və şirkətin əsası Estoniyadır.\r\n\r\n            İş şəraiti:\r\n            - İş qrafiki: 5 günlük iş həftəsi\r\n            - İş saatları: sərbəst (8 saat)\r\n            - İş yeri: Bakı şəhəri\r\n            - Əmək haqqi: 1500-3500 AZN\r\n\r\n            Əmək Haqqı müsahibə zamanı namizədin bilik və bacarığına uyğun təyin olunacaqdır",
+        "CategoryId": 3,
+        "SubCategoryId": 9,
+        "EducationDegree": "Higher",
+        "Experience": "From 3 to 5 years",
+        "Languages": [
+          "Azərbaycan"
+        ],
+        "ViewCount": 10,
+        "Salary": 2300,
+        "WorkCity": "Astara",
+        "Guid": "85d152c7-f245-4c55-8fe2-57363a82241f"
+      },
+      {
+        "WorkName": "1C ÜZRƏ ƏMƏLİYYATÇI (MÜTƏXƏSSİS)",
+        "AgeMin": 20,
+        "AgeMax": 40,
+        "SalaryMax": 900,
+        "Requirements": "- Ali təhsil\r\n            - 1C proqram biliyi\r\n            - Yüksək səviyyədə Excel biliyi\r\n            - Oxşar sahələrdə və retail sektorda iş təcrübəsi mütləqdir\r\n            - Azərbaycan və rus dili bilikləri",
+        "JobDescription": "- Excel faylda əməliyyatları aparıb onları 1C proqramına yükləmək\r\n            - 1C proqramında aparılan əməliyyatlara gündəlik nəzarət etmək\r\n            - Problemlərin araşdırılması və vaxtında həllini təmin etmək",
+        "CategoryId": 3,
+        "SubCategoryId": 11,
+        "EducationDegree": "Secondary",
+        "Experience": "From 1 to 3 years",
+        "Languages": [
+          "Azərbaycan",
+          "Rus"
+        ],
+        "ViewCount": 6,
+        "Salary": 700,
+        "WorkCity": "Quba",
+        "Guid": "f73e0858-df83-4c78-99e2-d4aabbb510fe"
+      }
+    ],
+    "IncomingCVs": null,
+    "Name": "Müsabir",
+    "Surname": "Musabəyli",
+    "Username": "musa123",
+    "Password": "kenan239932",
+    "Gender": true,
+    "Email": "idayatov256@gmail.com",
+    "Age": 42,
+    "Phones": [
+      "0125645454",
+      "0778909080"
+    ],
+    "Notifications": null,
+    "Guid": "27263028-e94a-4e15-9430-4f187905c7c3"
+  },
+  {
+    "CompanyName": "Mars Overseas LTD MMM",
+    "Vacancies": [
+      {
+        "WorkName": "Sürücü",
+        "AgeMin": 25,
+        "AgeMax": 50,
+        "SalaryMax": 800,
+        "Requirements": "- BC kateqoryalı sürücülük vəsiqəsi\r\n            - Yük maşınları üzrə minimum 1 il iş təcrübəsi (Hundai HD 72, İsuzu və s.;)\r\n            - Məsuliyyətli və dəqiq\r\n            - Qaimə və faktura ilə işləmə bacarığı\r\n            - 25-50 yaş aralığında\r\n            - Fiziki cəhətdən sağlam",
+        "JobDescription": "- İş saatı 7:30-da başlayır\r\n            - 6 günlük iş qrafiki",
+        "CategoryId": 7,
+        "SubCategoryId": 22,
+        "EducationDegree": "Secondary",
+        "Experience": "From 1 to 3 years",
+        "Languages": [
+          "Azərbaycan"
+        ],
+        "ViewCount": 4,
+        "Salary": 600,
+        "WorkCity": "Gəncə",
+        "Guid": "ce53e4c1-ab80-4ecf-a2f9-fe6518a12c56"
+      },
+      {
+        "WorkName": "Satis meneceri",
+        "AgeMin": 30,
+        "AgeMax": 45,
+        "SalaryMax": 2000,
+        "Requirements": "- Distribyutor satış komandasının planların tərtib olunması\r\n            - Satış komandasının inkişaf olunması\r\n            - Ərazi yoxlanışı və inkişaf yolların müəyyən olunması\r\n            - Soyuducaların yerləşdirilməsi kontrolu\r\n            - Təmsilçilərlə birgə vizitlərin həyata keçirilməsi\r\n            - Yeni müştərilərlə işin başlanması\r\n            - Penetrasiya, distribyusiya,AKB göstəricilərin artırılması\r\n            - SDO- ların həyata keçirilməsi\r\n            - Must-list standartların ərazi tətbiqinin kontrolu\r\n            - Planoqram standartların ərazi tətbiqinin kontrolu\r\n            - POSM standartların ərazi tətbiqinin kontrolu",
+        "JobDescription": "İş yeri :\r\n            - Şuşa şəhəri\r\n\r\n            İş günləri :\r\n            - Həftənin 6 günü\r\n\r\n            İş saatı :\r\n            08:30-dan 17:30-dək\r\n            Əmək haqqı :\r\n            1500 Azn (net) + bonus",
+        "CategoryId": 4,
+        "SubCategoryId": 13,
+        "EducationDegree": "Higher",
+        "Experience": "From 3 to 5 years",
+        "Languages": [
+          "Azərbaycan"
+        ],
+        "ViewCount": 2,
+        "Salary": 1500,
+        "WorkCity": "Şuşa",
+        "Guid": "fdc331b9-3a04-4d37-bb60-7cf61d69b824"
+      }
+    ],
+    "IncomingCVs": [],
+    "Name": "Orxan",
+    "Surname": "Necefli",
+    "Username": "orxan123",
+    "Password": "kenan239932",
+    "Gender": true,
+    "Email": "dtezarsingle20@idiotmails.com",
+    "Age": 41,
+    "Phones": [
+      "0124097667",
+      "0502907623"
+    ],
+    "Notifications": null,
+    "Guid": "38ec4213-cbb6-43ce-a7b2-9074487b82ea"
+  }
+]
