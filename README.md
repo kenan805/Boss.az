@@ -2,20 +2,17 @@
 İş elanları layihəsi
 Sistem 2 hissədən ibarətdir: 1) İşçilər 2) İşə götürənlər
 
-Bütün istifadəçilərdə eyni gmail və paroldan istifadə etmişəm.Bəzi hallarda bu gmail bildiriş gedir.
+Bütün istifadəçilərdə eyni gmail və paroldan istifadə etmişəm.Bəzi hallarda bu gmailə bildiriş gedir.
 
 Gmail: examcheck0@gmail.com
 
 Parol: examcheck123
 
 Databazada olar hazır işçilər:
-
 mehman123,vefa123,emil123
 
 Databazada olar hazır işə götürənlər:
-
 elvin123,musa123,orxan123
-
 
 İşçi işlərə baxır.Burda filterlemede var.İslərə baxanda işi istəyə bilər. İşi istəsə hemin bu işçinin CV-si gedir hemin işə götürənə.
 Həmin işi paylaşana bildiris gedir.
