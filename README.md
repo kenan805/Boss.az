@@ -1,6 +1,7 @@
 # Boss.az
 İş elanları layihəsi
 Sistem 2 hissədən ibarətdir: 1) İşçilər 2) İşə götürənlər
+
 Bütün istifadəçilərdə eyni gmail və paroldan istifadə etmişəm.Bəzi hallarda bu gmail bildiriş gedir.
 Gmail: examcheck0@gmail.com
 Parol: examcheck123
@@ -20,6 +21,7 @@ Employerde accept veya reject (qebul imtina)
 
 Job postings project
 The system consists of 2 parts: 1) Workers 2) Employers
+
 I have used the same gmail and password for all users. In some cases, this is a gmail notification.
 Gmail: examcheck0@gmail.com
 Password: examcheck123
