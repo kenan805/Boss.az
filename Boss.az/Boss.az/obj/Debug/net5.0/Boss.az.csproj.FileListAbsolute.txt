@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Boss.az\Boss.az\bin\Debug\net5.0\Boss.az.exe
+C:\Users\user\source\repos\Boss.az\Boss.az\bin\Debug\net5.0\Boss.az.deps.json
+C:\Users\user\source\repos\Boss.az\Boss.az\bin\Debug\net5.0\Boss.az.runtimeconfig.json
+C:\Users\user\source\repos\Boss.az\Boss.az\bin\Debug\net5.0\Boss.az.runtimeconfig.dev.json
+C:\Users\user\source\repos\Boss.az\Boss.az\bin\Debug\net5.0\Boss.az.dll
+C:\Users\user\source\repos\Boss.az\Boss.az\bin\Debug\net5.0\ref\Boss.az.dll
+C:\Users\user\source\repos\Boss.az\Boss.az\bin\Debug\net5.0\Boss.az.pdb
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.AssemblyInfo.cs
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.dll
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\ref\Boss.az.dll
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.pdb
+C:\Users\user\source\repos\Boss.az\Boss.az\obj\Debug\net5.0\Boss.az.genruntimeconfig.cache
