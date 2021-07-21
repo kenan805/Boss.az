@@ -1,4 +1,4 @@
-# Boss.az
+# Iş elanları layihəsi/Job postings project
 İş elanları layihəsi
 Sistem 2 hissədən ibarətdir: 1) İşçilər 2) İşə götürənlər
 
@@ -21,7 +21,7 @@ Employerde accept veya reject (qebul imtina)
 İşə götürən işçilərin CV-nə baxa bilər.Burda filterlemede var.Hər hansı işçinin CV-ni bəyənsə həmin işçiyə bildiriş göndərilir.
 İşçi işə baxır. İşi qəbul və ya rədd edə bilər.
 
-...................................................................................................................................................................................................................................................................................................
+.................................................................................................................................................................................
 
 Job postings project
 The system consists of 2 parts: 1) Workers 2) Employers
