@@ -8,10 +8,10 @@ Gmail: examcheck0@gmail.com
 
 Parol: examcheck123
 
-Databazada olar hazır işçilər:
+Databazada olar hazır işçilərin username-i:
 mehman123,vefa123,emil123
 
-Databazada olar hazır işə götürənlər:
+Databazada olar hazır işə götürənlərin username-i:
 elvin123,musa123,orxan123
 
 İşçi işlərə baxır.Burda filterlemede var.İslərə baxanda işi istəyə bilər. İşi istəsə hemin bu işçinin CV-si gedir hemin işə götürənə.
